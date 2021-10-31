@@ -14,7 +14,7 @@ Cysports said,
 ### technology
 1. Data analysis.
 
-![data analysis flow] (img width="485" alt="화면 캡처 2021-10-28 180328" src="https://user-images.githubusercontent.com/92665551/139571771-e362d171-15b7-495a-9790-c6bc641e3896.png")
+![data analysis flow] (https://user-images.githubusercontent.com/92665551/139571771-e362d171-15b7-495a-9790-c6bc641e3896.png)
 
 
 
