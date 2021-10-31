@@ -17,6 +17,11 @@ Cysports said,
 ![data analysis flow](<img width="485" alt="화면 캡처 2021-10-28 180328" src="https://user-images.githubusercontent.com/92665551/139571903-a13f7517-aa5f-4fe5-9603-0c697cb8bac9.png">)
 
 
+2. Video analysis technology.
+
+![video analysis flow](<img width="221" alt="화면 캡처 2021-10-28 174720" src="https://user-images.githubusercontent.com/92665551/139571966-70812774-f15c-4dce-8a67-ef3940cceeab.png">)
+
+
 
 
 
